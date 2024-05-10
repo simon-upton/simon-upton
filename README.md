@@ -1,27 +1,22 @@
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<a href="https://www.linkedin.com/in/simon-upton-15853b239/">
-  <img align="left" alt="Simon's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://discordapp.com/users/214496939226431489">
-  <img align="left" alt="Simon's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+<h1 align="center">👋 Hi, I'm Simon</h1> 
+<h3 align="center">Studying software engineering :)</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=simon-upton.simon-upton)
+<!-- badges from: https://github.com/Ileriayo/markdown-badges -->
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img align="center" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-<br/>
+- 📫 Reach me via email: [simon@uptonhome.com](simon@uptonhome.com)
+- 🌐 My site: [upton.dev](upton.dev)
 
-### [![Simon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-upton&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**simon-upton/simon-upton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### Connect with me
 
-Here are some ideas to get you started:
+<div align="center">
+</div> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=simon-upton&style=flat-square)
