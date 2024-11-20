@@ -12,7 +12,7 @@
 </p>
 
 - 📫 Reach me via email: [simon@uptonhome.com](simon@uptonhome.com)
-- 🌐 My site: [upton.dev](upton.dev)
+- 🌐 My site: [upton.dev](https://www.upton.dev)
 
 <!-- ### Connect with me
 
